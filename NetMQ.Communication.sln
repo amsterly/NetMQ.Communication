@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetMQ.Extension", "NetMQ.Extension\NetMQ.Extension.csproj", "{C676CB56-3FBD-45DF-B97D-1479FAC3C761}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetMQ.Communication.Client", "NetMQ.Communication.Client\NetMQ.Communication.Client.csproj", "{3761DD43-7793-4D29-BF00-2296F5544F41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetMQ.Communication.Server", "NetMQ.Communication.Server\NetMQ.Communication.Server.csproj", "{BB70445C-CCC3-46A6-8067-53119ADA709A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C676CB56-3FBD-45DF-B97D-1479FAC3C761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C676CB56-3FBD-45DF-B97D-1479FAC3C761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C676CB56-3FBD-45DF-B97D-1479FAC3C761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C676CB56-3FBD-45DF-B97D-1479FAC3C761}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3761DD43-7793-4D29-BF00-2296F5544F41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3761DD43-7793-4D29-BF00-2296F5544F41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3761DD43-7793-4D29-BF00-2296F5544F41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3761DD43-7793-4D29-BF00-2296F5544F41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB70445C-CCC3-46A6-8067-53119ADA709A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB70445C-CCC3-46A6-8067-53119ADA709A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB70445C-CCC3-46A6-8067-53119ADA709A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB70445C-CCC3-46A6-8067-53119ADA709A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
